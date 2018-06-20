@@ -1,0 +1,205 @@
+heatsync-300.txt
+Created Sun Dec 18 21:41:42 AKST 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+HeatSync 300 Micro-Client
+A-Tech Fabrication, Since 1989
+World's Finest Home Theatre Computers - Handcrafted in the USA
+
+Very, very nice "beautiful entertainment PC enclosure."
+
+o Slot-loading slim-line optical drive
+o Black or silver aluminium case
+
+Price:
+Blu-ray reader/writer                              - $185
+Dual USB 3.0 Ports                                 -  $30
+Black Aluminum Case Feet                           -  $25
+ASUS ROG Strix Z370-I Gaming                       -  $40
+Intel 8th Gen Core i7-8700, 6-Core 3.2 GHz, 65watt - $235
+2x Samsung 860 EVO 2TB M.2 SATA     2x $540.57     - $1081.24
+   NOTE: This is a M.2 2280
+         Looks supported by
+         ASUS ROG Strix Z370-I Gaming 
+HeatSync 300 Micro-Client System                   - $1199.00
+                                             ----------------
+                                             Total:   2795.24
+
+
+Samsung 860 EVO 250GB M.2 SATA Internal SSD (MZ-N6E250BW)
+price: $82.99 (amazon prime - June 20, 2018)
+
+Samsung 860 EVO 500GB M.2 SATA Internal SSD (MZ-N6E500BW)
+price: $129.99 (amazon prime - June 20, 2018)
+
+Samsung 960 EVO Series - 1TB PCIe NVMe - M.2 Internal SSD (MZ-V6E1T0BW)
+price: $439.99 (amazon prime - June 20, 2018)
+
+Samsung 860 EVO 2TB M.2 SATA Internal SSD (MZ-N6E2T0BW) <===
+price: $540.57 (amazon prime - June 20, 2018)
+
+
+
+o With Blu-ray reader/writer + $185
+o With Dual USB 3.0 Ports + $30
+o With Black Aluminum Case Feet + $25
+o Motherboard:
+  GIGABYTE Z370N WIFI (supports 4K UHD-BD + 4K Netflix)       <=== Default
+  2x DDR4 DIMM sockets supporting up to 32 GB of system memory
+  1x HDMI port, supporting a maximum resolution of 4096x2160@60 Hz
+  *Support for HDMI 2.0 version, HDCP 2.2, and HDR.
+  2x Intel GbE LAN chips (10/100/1000 Mbit)
+  https://www.gigabyte.com/Motherboard/Z370N-WIFI-rev-10#sp
+
+  ASRock Fatal1ty Z370 Gaming-ITX/ac
+  2×288pin, max 32GB
+  1x M.2 PCI Express module up to Gen3 x4 (32 Gb/s)
+  1x Optical SPDIF Output Port
+  price: $25
+  https://www.newegg.com/Product/Product.aspx?Item=N82E16813157794
+
+  ASUS ROG Strix Z370-I Gaming   <=== Really like the 2x M.2
+  2x DDR4, 32GB max
+  2x M.2 Socket 3, M key, type 2242/2260/2280 storage devices support
+  1x Optical SPDIF Output Port
+  price: $40
+  https://www.asus.com/us/Motherboards/ROG-STRIX-Z370-I-GAMING/
+
+o Processor
+  Intel 8th Gen Core i3-8100, 4-Core 3.6 GHz, 65watt
+  Intel 8th Gen Core i5-8400, 6-Core 2.8 GHz, 65watt + $85 <-Recommended
+  Intel 8th Gen Core i7-8700, 6-Core 3.2 GHz, 65watt + $235   <=== Looks fine
+
+o Memory
+  No Memory Installed (Default)
+  8GB DDR4 2666MHz + $135
+  16GB DDR4 2666MHz + $235 <-Recommended
+  32GB DDR4 2666MHz + $475              <=== 32GB is good
+
+o Drives:
+  M.2 PCIe 3.0 SSD
+    No Primary Drive Installed (default)
+    250GB Samsung 960 EVO M.2 + $160 <-Recommended   <=== boot
+    500GB Samsung 960 EVO M.2 + $300 
+    1TB Samsung 960 EVO M.2 + $665
+
+  2.5" Solid-State-Drives (SSD)
+    500GB Samsung 860 EVO 2.5 SSD + $230
+    1TB Samsung 860 EVO 2.5 SSD + $400
+    2TB Samsung 860 EVO 2.5 SSD + $1040
+
+
+Shipping and Ordering Information
+We custom machine parts of the chassis based on the options you choose,
+then each faceplate is hand polished to a beautiful finish before anodizing
+to the color of your choice.  We then assemble the system to your
+specifications before it goes through testing to assure the highest
+performance and reliability.
+
+Standard lead time is 2-3 weeks depending on options and components installed.
+
+HeatSync 300 Micro-Client System ... $1199 + options selected above
+
+
+M.2 storage
+===========
+Samsung 860 EVO 2TB M.2 SATA Internal SSD (MZ-N6E2T0BW) <===
+by Samsung
+price: $540.57 (amazon prime - June 20, 2018)
+
+Samsung 960 PRO Series - 2TB PCIe NVMe - M.2 Internal SSD (MZ-V6P2T0BW)
+by Samsung
+price: $1,164.99 (amazon prime - June 20, 2018)
+
+Samsung 970 EVO NVMe Series 2TB M.2 PCI-Express 3.0 x4
+Solid State Drive (V-NAND)
+by Samsung
+price: $879.00 (amazon prime - June 20, 2018)
+
+
+
+Optional Features
+=================
+o DVD, Blu-ray, or Ultra-HD 4K optical drive
+o M.2 PCIe 3.0 SSD or 2.5" Solid State Drive
+o USB 3.0 front panel ports
+o Matching CNC machined aluminum Case Feet
+o Microsoft Windows 7, 10, or Server operating system
+--atechfabrication.com/
+
+
+Detailed Information
+====================
+The HeatSync 300 Micro-Client is our smallest, ultra-compact,
+high-performance computer chassis ever. The small footprint
+allows it to be tucked away on a shelf while providing totally
+silent operation utilizing our proprietary HeatSync Cooling Technology.
+
+o 100% Made in the USA
+o Ultra-compact, high-performance computer case
+o Passively Cooled Design - No Noise!
+o Precision CNC machined from heat-treated aircraft quality billet aluminum
+o Heavy-duty aluminum Heatsink Case absorbs and disperses system heat
+o Modular heatsink system increases performance and functionality 
+o Large aluminum fins optimized for natural convection cooling
+o Highly efficient HeatSync® CPU cooling system transfers heat directly
+  into chassis
+o Integrated HeatSync® chipset cooling system (optional)
+o Fanless internal high efficiency DC-DC converter (optional)
+o Fanless External AC power adapter (optional)
+o Standard slim-line slot-load optical drive mounting
+o Mounting for one or two 2.5" HDD's
+o Designed for mini-ITX motherboards only
+o Faceplate available with either black or silver anodized finish
+o Standard black anodized finish on chassis
+o Outstanding workmanship and finish quality
+o Dimensions - 13" wide x 7-7/8" deep x 3-1/4" high (+ 3/8" with feet)
+
+Options Include:
+o HeatSync® Cooling System for processor
+o HeatSync® Cooling System for chipset
+o 2U one-piece rack mount faceplate
+o Billet aluminum case feet
+
+Hand-crafted 100% in the USA from the finest materials and manufacturing
+processes available.  Every part is precision machined from thick aluminum
+billet for not only outstanding looks, but to increase the cooling
+capabilities by dispersing heat throughout the entire case.
+ 
+Unsurpassed attention to detail is seen all throughout the case.  Each
+part is carefully designed for form and function, creating a beautiful
+entertainment PC enclosure that is at home even next to the finest
+audiophile components.
+ 
+The high quality finish on each faceplate is achieved though our meticulous
+hand polishing procedures.  Available with either a black or silver anodized
+finish.
+ 
+Completely fanless, the massive heatsinks dissipate system heat and provide
+a foundation for a truly silent computer system.  The HeatSync 300
+Micro-Client allows you to pack a powerful system into a ultra compact
+package.
+ 
+The simple back panel allows for quick and easy connection to your external
+components.  The power connection adapter allows for the use of different
+external AC adapters.
+ 
+Internally, the computer components are well laid out for equal heat
+distribution and easy servicing.  The convenient slot-loading slim-line
+optical drive makes it easy to insert discs.  For silence the HeatSync
+300 Micro-Client uses a 2.5" hard drive.
+ 
+Highly efficient HeatSync® CPU cooling system transfers heat directly
+into chassis. No fans are required to cool the processor.  The HeatSync
+300 Micro-Client will fit a number motherboards allowing you to build
+a system that is just right for your specific needs. 
+--atechfabrication.com/
+
+
+Links
+=====
+HeatSync 300 Micro-Client
+A-Tech Fabrication, Since 1989
+World's Finest Home Theatre Computers - Handcrafted in the USA
+http://atechfabrication.com/products/HeatSync_300_Micro-Client.htm
