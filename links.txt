@@ -19,4 +19,7 @@ http://atechfabrication.com/products/HeatSync_300_Micro-Client.htm
 HeatSync NAS-8x 2.5 Series
 Fine fanless chassis with only 1x PCIe slot.
 Dimensions - 17.5" wide x 13.5" deep x 2.5" high (+ 3/8" with feet)
+Pictured with "VIA SN1800G motherboard pictured above only draws
+28 watts under load."
+Holds up 9x 2.5" HDD's
 http://atechfabrication.com/products/HeatSync_NAS-8x_2.5_Series.htm
